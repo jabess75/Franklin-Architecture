@@ -92,11 +92,4 @@ This repository contains architectural, analytical, and governance artifacts rel
 - `/notes` — supporting analyses and working documents  
 
 Not all sections are complete. This repository is intended to evolve as a reference architecture, not a software product.
-
-
-- AI safety and governance researchers  
-- System architects working above the model layer  
-- Regulators, auditors, and policy designers  
-- Engineers concerned with responsibility, authority, and control boundaries
-
 Readers looking for application-level optimization or autonomous agents may find this out of scope.
