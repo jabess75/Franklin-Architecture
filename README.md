@@ -77,7 +77,22 @@ Its purpose is architectural clarity and governance integrity.
 This work is intended for:
 - AI safety and governance researchers  
 - System architects working above the model layer  
-- Regulators, auditors, and policy designers  
+- Regulators, auditors, and policy designers
+
+---
+
+---
+
+## Repository Structure
+
+This repository contains architectural, analytical, and governance artifacts related to Reflective Systems Engineering.
+
+- `/papers` — empirical and analytical papers describing core failure modes and structural claims  
+- `/artifacts` — proof-of-concept governance mechanisms and interaction rules  
+- `/notes` — supporting analyses and working documents  
+
+Not all sections are complete. This repository is intended to evolve as a reference architecture, not a software product.
+
 
 - AI safety and governance researchers  
 - System architects working above the model layer  
